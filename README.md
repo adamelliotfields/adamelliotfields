@@ -9,14 +9,14 @@
 <h3 align="center">Software Engineer @ <a href="https://bostonglobe.com">The Boston Globe</a></h3>
 
 <!-- Badges. -->
-<p align="center">
+<h4 align="center">
   <a href="https://linkedin.com/in/adamelliotfields/">
     <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
   </a>
   <a href="https://github.com/adamelliotfields">
     <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/github.svg" alt="github badge" />
   </a>
-</p>
+</h4>
 
 <!-- Table of contents. -->
 <h4 align="center">
