@@ -1,6 +1,6 @@
 <!-- Image with title. -->
 <h1 align="center">
-  <img src="vendor/undraw/developer_activity.svg" alt="illustration of a programmer" width="854">
+  <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/undraw/developer_activity.svg" alt="illustration of a programmer" width="854">
   <br />
   Adam Fields
 </h1>
@@ -11,10 +11,10 @@
 <!-- Badges. -->
 <p align="center">
   <a href="https://linkedin.com/in/adamelliotfields/">
-    <img src="vendor/shields/linkedin.svg" alt="linkedin badge" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
   </a>
   <a href="https://github.com/adamelliotfields">
-    <img src="vendor/shields/github.svg" alt="github badge" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/github.svg" alt="github badge" />
   </a>
 </p>
 
@@ -37,43 +37,43 @@ programming for the web since 2016.
 <!-- Row of tech logos from https://github.com/rahuldkjain/github-profile-readme-generator -->
 <p align="left">
   <a href="https://www.linuxfoundation.org/projects/linux/">
-    <img src="vendor/devicons/linux-original.svg" alt="linux logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/linux-original.svg" alt="linux logo" width="24" />
   </a>
   &nbsp;
   <a href="https://aws.amazon.com">
-    <img src="vendor/devicons/amazonwebservices-original.svg" alt="aws logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/amazonwebservices-original.svg" alt="aws logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.docker.com">
-    <img src="vendor/devicons/docker-original.svg" alt="docker logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/docker-original.svg" alt="docker logo" width="24" />
   </a>
   &nbsp;
   <a href="https://nodejs.org/en/">
-    <img src="vendor/devicons/nodejs-original.svg" alt="node js logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/nodejs-original.svg" alt="node js logo" width="24" />
   </a>
   &nbsp;
   <a href="http://expressjs.com">
-    <img src="vendor/devicons/express-original.svg" alt="express logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/express-original.svg" alt="express logo" width="24" />
   </a>
   &nbsp;
   <a href="https://reactjs.org">
-    <img src="vendor/devicons/react-original.svg" alt="react logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/react-original.svg" alt="react logo" width="24" />
   </a>
   &nbsp;
   <a href="https://sass-lang.com">
-    <img src="vendor/devicons/sass-original.svg" alt="sass logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/sass-original.svg" alt="sass logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org">
-    <img src="vendor/devicons/typescript-original.svg" alt="typescript logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/typescript-original.svg" alt="typescript logo" width="24" />
   </a>
   &nbsp;
   <a href="https://golang.org">
-    <img src="vendor/devicons/go-original.svg" alt="go logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/go-original.svg" alt="go logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.mysql.com">
-    <img src="vendor/devicons/mysql-original.svg" alt="mysql logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/mysql-original.svg" alt="mysql logo" width="24" />
   </a>
 </p>
 
