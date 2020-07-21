@@ -1,14 +1,14 @@
-<!-- Image with title. -->
+<!-- Illustration by Katerina Limpitsouni (https://undraw.co/license). -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/undraw/developer_activity.svg" alt="illustration of a programmer" width="854">
   <br />
   Adam Fields
 </h1>
 
-<!-- Subtitle. -->
+<!-- Subtitle goes here. -->
 <h3 align="center">Software Engineer @ <a href="https://bostonglobe.com">The Boston Globe</a></h3>
 
-<!-- Badges. -->
+<!-- Badges from Shields (CC0 license) (https://github.com/badges/shields). -->
 <h4 align="center">
   <a href="https://linkedin.com/in/adamelliotfields/">
     <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
@@ -18,7 +18,7 @@
   </a>
 </h4>
 
-<!-- Table of contents. -->
+<!-- Horizontal table of contents. -->
 <h4 align="center">
   <a href="#wave-about">About</a>&nbsp;|
   <a href="#computer-technologies">Technologies</a>&nbsp;|
@@ -30,50 +30,50 @@
 I'm a "full stack" web developer based in Boston, MA. I graduated with a BS in Psychology have been
 programming for the web since 2016.
 
+<!-- Use line breaks for spacing. -->
 <br />
 
 ## :computer: Technologies
 
-<!-- Row of tech logos from https://github.com/rahuldkjain/github-profile-readme-generator -->
+<!--
+  Tech logos from Devicon (MIT license) (https://github.com/konpa/devicon).
+  Inspired by https://github.com/rahuldkjain/github-profile-readme-generator.
+-->
 <p align="left">
   <a href="https://www.linuxfoundation.org/projects/linux/">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/linux-original.svg" alt="linux logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/linux-original.svg" alt="linux logo" width="24" />
   </a>
   &nbsp;
   <a href="https://aws.amazon.com">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/amazonwebservices-original.svg" alt="aws logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/amazonwebservices-original.svg" alt="aws logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.docker.com">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/docker-original.svg" alt="docker logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/docker-original.svg" alt="docker logo" width="24" />
   </a>
   &nbsp;
   <a href="https://nodejs.org/en/">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/nodejs-original.svg" alt="node js logo" width="24" />
-  </a>
-  &nbsp;
-  <a href="http://expressjs.com">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/express-original.svg" alt="express logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/nodejs-original.svg" alt="node js logo" width="24" />
   </a>
   &nbsp;
   <a href="https://reactjs.org">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/react-original.svg" alt="react logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/react-original.svg" alt="react logo" width="24" />
   </a>
   &nbsp;
   <a href="https://sass-lang.com">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/sass-original.svg" alt="sass logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/sass-original.svg" alt="sass logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/typescript-original.svg" alt="typescript logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/typescript-original.svg" alt="typescript logo" width="24" />
   </a>
   &nbsp;
   <a href="https://golang.org">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/go-original.svg" alt="go logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/go-original.svg" alt="go logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.mysql.com">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicons/mysql-original.svg" alt="mysql logo" width="24" />
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/devicon/mysql-original.svg" alt="mysql logo" width="24" />
   </a>
 </p>
 
