@@ -1,6 +1,6 @@
 <!-- Image with title. -->
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/7433025" alt="picture of adam fields" width="192">
+  <img src="vendor/undraw/developer_activity.svg" alt="illustration of a programmer" width="854">
   <br />
   Adam Fields
 </h1>
@@ -11,10 +11,10 @@
 <!-- Badges. -->
 <p align="center">
   <a href="https://linkedin.com/in/adamelliotfields/">
-    <img src="https://img.shields.io/badge/-adamelliotfields-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/adamelliotfields/" alt="linkedin badge" />
+    <img src="vendor/shields/linkedin.svg" alt="linkedin badge" />
   </a>
   <a href="https://github.com/adamelliotfields">
-    <img src="https://img.shields.io/badge/-adamelliotfields-lightgrey?style=flat&logo=github&logoColor=black&link=https://github.com/adamelliotfields" alt="github badge" />
+    <img src="vendor/shields/github.svg" alt="github badge" />
   </a>
 </p>
 
@@ -37,43 +37,43 @@ programming for the web since 2016.
 <!-- Row of tech logos from https://github.com/rahuldkjain/github-profile-readme-generator -->
 <p align="left">
   <a href="https://www.linuxfoundation.org/projects/linux/">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux logo" width="24" />
+    <img src="vendor/devicons/linux-original.svg" alt="linux logo" width="24" />
   </a>
   &nbsp;
   <a href="https://aws.amazon.com">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws logo" width="24" />
+    <img src="vendor/devicons/amazonwebservices-original.svg" alt="aws logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.docker.com">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker logo" width="24" />
+    <img src="vendor/devicons/docker-original.svg" alt="docker logo" width="24" />
   </a>
   &nbsp;
   <a href="https://nodejs.org/en/">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node js logo" width="24" />
+    <img src="vendor/devicons/nodejs-original.svg" alt="node js logo" width="24" />
   </a>
   &nbsp;
   <a href="http://expressjs.com">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express logo" width="24" />
+    <img src="vendor/devicons/express-original.svg" alt="express logo" width="24" />
   </a>
   &nbsp;
   <a href="https://reactjs.org">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react logo" width="24" />
+    <img src="vendor/devicons/react-original.svg" alt="react logo" width="24" />
   </a>
   &nbsp;
   <a href="https://sass-lang.com">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass logo" width="24" />
+    <img src="vendor/devicons/sass-original.svg" alt="sass logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.typescriptlang.org">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript logo" width="24" />
+    <img src="vendor/devicons/typescript-original.svg" alt="typescript logo" width="24" />
   </a>
   &nbsp;
   <a href="https://golang.org">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go logo" width="24" />
+    <img src="vendor/devicons/go-original.svg" alt="go logo" width="24" />
   </a>
   &nbsp;
   <a href="https://www.mysql.com">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql logo" width="24" />
+    <img src="vendor/devicons/mysql-original.svg" alt="mysql logo" width="24" />
   </a>
 </p>
 
