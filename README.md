@@ -6,15 +6,15 @@
 </h1>
 
 <!-- Subtitle goes here. -->
-<h3 align="center">Software Engineer @ <a href="https://bostonglobe.com">The Boston Globe</a></h3>
+<h3 align="center">Software Engineer @ <a href="https://www.bostonglobe.com">The Boston Globe</a></h3>
 
 <!-- Badges from Shields (CC0 license) (https://github.com/badges/shields). -->
 <h4 align="center">
-  <a href="https://linkedin.com/in/adamelliotfields/">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
-  </a>
   <a href="https://github.com/adamelliotfields">
     <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/github.svg" alt="github badge" />
+  </a>
+  <a href="https://linkedin.com/in/adamelliotfields/">
+    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
   </a>
 </h4>
 
@@ -29,6 +29,11 @@
 
 I'm a "full stack" web developer based in Boston, MA. I graduated with a BS in Psychology have been
 programming for the web since 2016.
+
+I work on the frontend engineering team for [bostonglobe.com](https://www.bostonglobe.com). We're
+responsible feature development, bug fixes, performance improvements, ad optimization, and building
+microsites. Fun fact: we've been on the world wide web since 1995! That's the same year JavaScript
+first shipped with Netscape Navigator.
 
 <!-- Use line breaks for spacing. -->
 <br />
@@ -77,7 +82,7 @@ programming for the web since 2016.
   </a>
 </p>
 
-I'm a big fan of Linux and have been doing most of my personal development on Debian via [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index).
+I'm a big fan of Linux and have been doing most of my personal programming on Debian via [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index).
 I prefer to deploy Docker containers onto Kubernetes, but I've been trying to get more into serverless
 functions.
 
@@ -89,7 +94,8 @@ bandwagon.
 
 I tend to use React for everything frontend and I still prefer Sass for styling over anything else.
 
-VS Code is my editor of choice for JS/TS and Go.
+VS Code is my editor of choice for JS/TS and Go. I use Zsh with [Antigen](https://github.com/zsh-users/antigen)
+and [Spaceship](https://github.com/denysdovhan/spaceship-prompt).
 
 <br />
 
