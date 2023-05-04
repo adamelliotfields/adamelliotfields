@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Subtitle goes here. -->
-<h3 align="center">Software Engineer @ <a href="https://6river.com">6 River Systems</a> (Shopify)</h3>
+<h3 align="center">Software Engineer @ Shopify</h3>
 
 <!-- Badges from Shields (CC0 license) (https://github.com/badges/shields). -->
 <h4 align="center">
