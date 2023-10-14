@@ -10,9 +10,11 @@
   <h3>Adam Elliot Fields</h3>
 
   <!-- subtitle -->
-  <a href="">aef.me</a>
+  <a href="https://aef.me" target="_blank" rel="noopener noreferrer">aef.me</a>
 
   <!-- links -->
-  <img src="https://img.shields.io/badge/linkedin-adamelliotfields-0A66C2?logo=linkedin">
-  <img src="https://img.shields.io/badge/discord-fieldsy-5865F2?logo=discord">
+  <a href="https://linkedin.com/in/adamelliotfields" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/adamelliotfields-white?logo=linkedin&logoColor=0A66C2">
+  </a>
+  <img src="https://img.shields.io/badge/fieldsy-white?logo=discord&logoColor=5865F2">
 </div>
