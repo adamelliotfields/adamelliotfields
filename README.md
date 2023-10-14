@@ -13,7 +13,6 @@
   <a href="">aef.me</a>
 
   <!-- links -->
-  <img src="https://img.shields.io/badge/github-adamelliotfields-181717?logo=github">
   <img src="https://img.shields.io/badge/linkedin-adamelliotfields-0A66C2?logo=linkedin">
   <img src="https://img.shields.io/badge/discord-fieldsy-5865F2?logo=discord">
 </div>
