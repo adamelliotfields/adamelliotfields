@@ -7,10 +7,9 @@
   <img src="./adamelliotfields.jpg" alt="illustration of a programmer's desk with a view" width="423">
 
   <!-- title -->
-  <h3>Adam Elliot Fields</h3>
-
-  <!-- subtitle -->
-  <a href="https://aef.me">aef.me</a>
+  <a href="https://github.com/adamelliotfields">
+    <h3>Adam Elliot Fields</h3>
+  </a>
 
   <!-- links -->
   <a href="https://linkedin.com/in/adamelliotfields">
@@ -18,5 +17,8 @@
   </a>
   <a href="https://discord.com/login">
     <img src="https://img.shields.io/badge/fieldsy-white?logo=discord&logoColor=5865F2">
+  </a>
+  <a href="https://aef.me">
+    <img src="https://img.shields.io/badge/aef.me-white?logo=google-chrome&logoColor=4285F4">
   </a>
 </div>
