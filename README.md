@@ -1,19 +1,19 @@
-<!-- Illustration by Katerina Limpitsouni (https://undraw.co/license). -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/undraw/developer_activity.svg" alt="illustration of a programmer" width="854">
-  <br />
-  Adam Fields
-</h1>
+<div align="center">
+  <!-- An illustration of a tidy software engineer's corner. The desk has a clean wooden finish,
+  emphasizing simplicity and elegance. On the desk is an open laptop with a blank, turned-off
+  screen. The backdrop showcases a window that offers a serene view of a digital wonderland:
+  floating islands made of circuitry, shimmering data streams, and soft, holographic clouds gracing
+  the horizon. -->
+  <img src="./adamelliotfields.jpg" alt="illustration of a programmer's desk with a view" width="423">
 
-<!-- Subtitle goes here. -->
-<h3 align="center">Software Engineer @ Shopify</h3>
+  <!-- title -->
+  <h3>Adam Elliot Fields</h3>
 
-<!-- Badges from Shields (CC0 license) (https://github.com/badges/shields). -->
-<h4 align="center">
-  <a href="https://github.com/adamelliotfields">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/github.svg" alt="github badge" />
-  </a>
-  <a href="https://linkedin.com/in/adamelliotfields/">
-    <img src="https://raw.githubusercontent.com/adamelliotfields/adamelliotfields/main/vendor/shields/linkedin.svg" alt="linkedin badge" />
-  </a>
-</h4>
+  <!-- subtitle -->
+  <a href="">aef.me</a>
+
+  <!-- links -->
+  <img src="https://img.shields.io/badge/github-adamelliotfields-181717?logo=github">
+  <img src="https://img.shields.io/badge/linkedin-adamelliotfields-0A66C2?logo=linkedin">
+  <img src="https://img.shields.io/badge/discord-fieldsy-5865F2?logo=discord">
+</div>
