@@ -7,9 +7,7 @@
   <img src="./adamelliotfields.jpg" alt="illustration of a programmer's desk with a view" width="423">
 
   <!-- title -->
-  <a href="https://github.com/adamelliotfields">
-    <h3>Adam Elliot Fields</h3>
-  </a>
+  <br />
 
   <!-- links -->
   <a href="https://linkedin.com/in/adamelliotfields">
